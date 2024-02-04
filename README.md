@@ -228,7 +228,7 @@ If you use the code or data associated with this project, or otherwise find this
 @article{morehead2024gcpnet_ema,
   title={Protein Structure Accuracy Estimation using Geometry-Complete Perceptron Networks},
   author={Morehead, Alex and Liu, Jian and Cheng, Jianlin},
-  journal={Protein Science}
+  journal={Protein Science},
   year={2024}
 }
 ```
